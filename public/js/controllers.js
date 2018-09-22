@@ -1,4 +1,4 @@
-﻿var PATH_PRIVATE = "$HOME/Desktop/bulletproofs/target/release";
+﻿var PATH_PRIVATE = "$HOME/Desktop/bulletproof-demo/target/release";
 
 /**
  * StoreCtrl - controller
